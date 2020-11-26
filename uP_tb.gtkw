@@ -1,0 +1,59 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Mon Nov 23 00:38:09 2020
+[*]
+[dumpfile] "C:\Users\Luispe\Documents\UVG\VI_SEMESTRE\Digital_1\Proyecto_Final\uP_tb.vcd"
+[dumpfile_mtime] "Mon Nov 23 00:31:26 2020"
+[dumpfile_size] 53962
+[savefile] "C:\Users\Luispe\Documents\UVG\VI_SEMESTRE\Digital_1\Proyecto_Final\uP_tb.gtkw"
+[timestart] 0
+[size] 1280 697
+[pos] -113 -90
+*-7.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 197
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 187
+@28
+testbench.clock
+testbench.reset
+@22
+[color] 5
+testbench.PC[11:0]
+@28
+[color] 2
+testbench.phase
+@22
+testbench.program_byte[7:0]
+@28
+[color] 7
+testbench.c_flag
+[color] 3
+testbench.z_flag
+@22
+testbench.instr[3:0]
+[color] 5
+testbench.oprnd[3:0]
+[color] 2
+testbench.accu[3:0]
+[color] 6
+testbench.data_bus[3:0]
+@c00022
+[color] 1
+testbench.FF_out[3:0]
+@28
+[color] 1
+(0)testbench.FF_out[3:0]
+[color] 1
+(1)testbench.FF_out[3:0]
+[color] 1
+(2)testbench.FF_out[3:0]
+[color] 1
+(3)testbench.FF_out[3:0]
+@1401200
+-group_end
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
